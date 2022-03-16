@@ -1,0 +1,16 @@
+C:\Users\gorlo\OneDrive\Рабочий стол\Новая папка\Max\bin\Debug\net6.0\Max.exe
+C:\Users\gorlo\OneDrive\Рабочий стол\Новая папка\Max\bin\Debug\net6.0\Max.deps.json
+C:\Users\gorlo\OneDrive\Рабочий стол\Новая папка\Max\bin\Debug\net6.0\Max.runtimeconfig.json
+C:\Users\gorlo\OneDrive\Рабочий стол\Новая папка\Max\bin\Debug\net6.0\Max.dll
+C:\Users\gorlo\OneDrive\Рабочий стол\Новая папка\Max\bin\Debug\net6.0\ref\Max.dll
+C:\Users\gorlo\OneDrive\Рабочий стол\Новая папка\Max\bin\Debug\net6.0\Max.pdb
+C:\Users\gorlo\OneDrive\Рабочий стол\Новая папка\Max\obj\Debug\net6.0\Max.GlobalUsings.g.cs
+C:\Users\gorlo\OneDrive\Рабочий стол\Новая папка\Max\obj\Debug\net6.0\Max.csproj.AssemblyReference.cache
+C:\Users\gorlo\OneDrive\Рабочий стол\Новая папка\Max\obj\Debug\net6.0\Max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorlo\OneDrive\Рабочий стол\Новая папка\Max\obj\Debug\net6.0\Max.AssemblyInfoInputs.cache
+C:\Users\gorlo\OneDrive\Рабочий стол\Новая папка\Max\obj\Debug\net6.0\Max.AssemblyInfo.cs
+C:\Users\gorlo\OneDrive\Рабочий стол\Новая папка\Max\obj\Debug\net6.0\Max.csproj.CoreCompileInputs.cache
+C:\Users\gorlo\OneDrive\Рабочий стол\Новая папка\Max\obj\Debug\net6.0\Max.dll
+C:\Users\gorlo\OneDrive\Рабочий стол\Новая папка\Max\obj\Debug\net6.0\ref\Max.dll
+C:\Users\gorlo\OneDrive\Рабочий стол\Новая папка\Max\obj\Debug\net6.0\Max.pdb
+C:\Users\gorlo\OneDrive\Рабочий стол\Новая папка\Max\obj\Debug\net6.0\Max.genruntimeconfig.cache
